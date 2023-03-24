@@ -1,4 +1,4 @@
-# Sentimental-Analysis-On-Moview-Reviews
+# Sentimental-Analysis-On-Movie-Reviews
 This project aims to perform sentiment analysis on movie reviews using machine learning techniques. We will be using a dataset of movie reviews and their associated sentiment labels (positive or negative) to train a machine learning model that can classify new, unseen reviews.
 
 Dataset
